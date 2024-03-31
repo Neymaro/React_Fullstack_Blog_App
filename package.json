@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:8800/api/",
+  "proxy": "https://react-fullstack-blog-app-deployment.onrender.com:8800/api/",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
