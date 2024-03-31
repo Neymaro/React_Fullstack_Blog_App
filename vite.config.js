@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   proxy: {
     '/api': {
-         target: 'https://react-fullstack-blog-app-deployment.onrender.com:8800',
+         target: 'https://localhost:8800',
          changeOrigin: true,
          secure: false,      
          ws: true,
